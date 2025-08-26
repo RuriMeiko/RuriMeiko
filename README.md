@@ -27,25 +27,25 @@ I'm a passionate developer focused on building efficient and scalable software s
 
 📊 GitHub Analytics Dashboard
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRuriMeiko%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRuriMeiko%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuriMeiko&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuriMeiko&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 🏆 GitHub Achievements
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DRuriMeiko%26theme%3Dtokyonight%26no-frame%3Dfalse%26no-bg%3Dfalse%26margin-w%3D4%26row%3D2%26column%3D3"/>
+<img src="https://trophygh.kolioaris.xyz/?username=rurimeiko&theme=tokyonight"/>
 </p>
 
 📈 Contribution Activity
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DRuriMeiko%26theme%3Dtokyo-night%26bg_color%3D1a1b27%26color%3D70a5fd%26line%3Dbf91f3%26point%3D38bdae%26area%3Dtrue%26hide_border%3Dtrue"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RuriMeiko&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 🔥 Streak Statistics
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRuriMeiko%26theme%3Dtokyonight%26hide_border%3Dtrue"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuriMeiko&theme=tokyonight&hide_border=true"/>
 </p>
 
 📅 Contribution Calendar
-<img src="https://www.google.com/search?q=https://ghchart.rshah.org/409ba5/RuriMeiko" alt="Contribution Calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/409ba5/RuriMeiko" alt="Contribution Calendar" width="100%"/>
 
 ⚡ Recent Activity
 <!--START_SECTION:activity-->
