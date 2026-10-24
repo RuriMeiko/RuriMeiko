@@ -24,11 +24,11 @@ I'm **Nguyễn Trần Hoàng Long** (*Nguyen Tran Hoang Long*), a developer from
 
 ```ts
 const ruri = {
-  writes:     ["Rust", "TypeScript", "Python", "Kotlin", "Java", "C"],
-  builds:     ["API gateways", "native ports", "Android apps", "Telegram bots", "serverless on Cloudflare"],
-  digsInto:   ["reverse engineering", "KVM / VFIO / virtio-gpu", "LLM tool calling"],
-  funFact:    "solves a Rubik's cube in under 2 minutes 🧩",
-  loveMode:   "off",
+  writes:   ["Rust", "TypeScript", "Python", "Kotlin"],
+  builds:   ["API gateways", "native ports", "Android apps", "bots"],
+  digsInto: ["reverse engineering", "KVM / virtio-gpu", "LLM tools"],
+  rubik:    "< 2 minutes 🧩",
+  loveMode: "off",
 };
 ```
 
@@ -112,7 +112,7 @@ A Telegram bot running on **Cloudflare Workers**, with **MongoDB Atlas** as its 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,ts,js,py,kotlin,java,c,cpp,dart,php&perline=10" alt="Languages: Rust, TypeScript, JavaScript, Python, Kotlin, Java, C, C++, Dart, PHP"><br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,electron,androidstudio,tailwind&perline=10" alt="Frameworks: Node.js, React, Next.js, Electron, Android, Tailwind CSS"><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,qemu,githubactions,mongodb,postgres,mysql,redis,git&perline=10" alt="Infrastructure: Cloudflare Workers, Docker, Linux, QEMU/KVM, GitHub Actions, MongoDB, PostgreSQL, MySQL, Redis, Git">
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,githubactions,mongodb,postgres,mysql,redis,git,vscode&perline=10" alt="Infrastructure: Cloudflare Workers, Docker, Linux, GitHub Actions, MongoDB, PostgreSQL, MySQL, Redis, Git, VS Code">
 </p>
 
 ## 🐍 Contribution snake
